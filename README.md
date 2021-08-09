@@ -43,10 +43,10 @@ $ yarn test:cov
 ## To-Do
 
 - [x] Basic structure
-- [x] Add Dataloader (solve GraphQL N+1)
+- [x] Add DataLoader (solve GraphQL N+1)
 - [x] Use Prisma instead of TypeORM
 - [ ] Add .editorconfig & some other tools
-- [ ] Dive deeper into Dataloader
+- [ ] Dive deeper into DataLoader
 - [ ] Dive deeper into Prisma
 
 ## License
