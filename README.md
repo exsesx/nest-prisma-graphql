@@ -48,6 +48,8 @@ $ yarn test:cov
 - [ ] Add .editorconfig & some other tools
 - [ ] Dive deeper into DataLoader
 - [ ] Dive deeper into Prisma
+- [ ] Fix old tests
+- [ ] Write some new tests
 
 ## License
 
